@@ -11,8 +11,8 @@ export default function Header() {
         <div className="flex flex-row items-center justify-between p-3 md:p-1">
           <a
             href="/"
-            class="flex text-3xl text-white font-medium mb-4 md:mb-0"
-          >NINE4
+            class="flex text-xl text-white font-medium mb-4 md:mb-0"
+          >The Aluminators
           </a>
           <button
             className="text-white pb-4 cursor-pointer leading-none px-3 py-1 md:hidden outline-none focus:outline-none content-end ml-auto"

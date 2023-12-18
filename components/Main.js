@@ -1,16 +1,14 @@
 export default function Main() {
   return (
     <section class="text-gray-600 body-font">
-      <div class="max-w-5xl pt-52 pb-24 mx-auto">
-        <h1 class="text-80 text-center font-4 lh-6 ld-04 font-bold text-white mb-6">
-          Create your next website fast and easy
+      <div style={{maxHeight: '50vh', backgroundImage: 'url(/images/team-photo.jpg)', backgroundPosition: '48% 0%', backgroundSize: 'cover'}} className="w-screen h-screen flex flex-col justify-top content-center mx-auto relative overflow-hidden mb-3">
+        <h1 classname="text-2xl text-center font-4 lh-6 ld-04 font-bold mt-10 text-white mb-6 z-10">
+          The Aluminators
         </h1>
-        <h2 class="text-2xl font-4 font-semibold lh-6 ld-04 pb-11 text-gray-700 text-center">
-          nine4 is a free to use template website for websites made
-          <br />
-          with Next.js and styled with Tailwind CSS
+        <h2 class="text-xl font-4 font-semibold lh-6 ld-04 pb-11 text-white text-center z-10">
+          First Robotics Team 6071
         </h2>
-        <div className="ml-6 text-center">
+        {/* <div className="ml-6 text-center z-10">
           <a
             className="inline-flex items-center py-3 font-semibold text-black transition duration-500 ease-in-out transform bg-transparent bg-white px-7 text-md md:mt-0 hover:text-black hover:bg-white focus:shadow-outline"
             href="/"
@@ -27,7 +25,8 @@ export default function Main() {
               <span className="justify-center">Purchase</span>
             </div>
           </a>
-        </div>
+        </div> */}
+        <div className="absolute inset-0" style={{backgroundColor: "rgba(0,0,0,0.5)"}}></div>
       </div>
       <div className="container flex flex-col items-center justify-center mx-auto">
         <img
