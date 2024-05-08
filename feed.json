@@ -9,5 +9,33 @@
         "name": "The Aluminators"
     },
     "items": [
+        {
+            "id": "https://frc6071.com/2024-sponsors.html",
+            "url": "https://frc6071.com/2024-sponsors.html",
+            "title": "2024 Sponsors",
+            "summary": "List off the 2024 sponsors and what not.",
+            "content_html": "<p>List off the 2024 sponsors and what not.</p>",
+            "author": {
+                "name": "The Aluminators"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-05-07T22:28:56-04:00",
+            "date_modified": "2024-05-07T22:28:56-04:00"
+        },
+        {
+            "id": "https://frc6071.com/sponsor-information.html",
+            "url": "https://frc6071.com/sponsor-information.html",
+            "title": "Sponsor Information",
+            "summary": "Here's where general sponsor information would go",
+            "content_html": "\n  <p>\n    Here's where general sponsor information would go\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "The Aluminators"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-05-07T22:28:34-04:00",
+            "date_modified": "2024-05-07T22:28:34-04:00"
+        }
     ]
 }
