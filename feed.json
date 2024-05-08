@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://frc6071.com/home/",
+            "url": "https://frc6071.com/home/",
+            "title": "Home",
+            "summary": "The Aluminators home page.",
+            "content_html": "\n  <p>\n    The Aluminators home page.\n  </p>",
+            "author": {
+                "name": "The Aluminators"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-05-07T22:35:45-04:00",
+            "date_modified": "2024-05-07T22:35:45-04:00"
+        },
+        {
             "id": "https://frc6071.com/2024-sponsors/",
             "url": "https://frc6071.com/2024-sponsors/",
             "title": "2024 Sponsors",

@@ -3,12 +3,35 @@
     <title>FRC 6071</title>
     <link href="https://frc6071.com/feed.xml" rel="self" />
     <link href="https://frc6071.com" />
-    <updated>2024-05-07T22:28:56-04:00</updated>
+    <updated>2024-05-07T22:35:45-04:00</updated>
     <author>
         <name>The Aluminators</name>
     </author>
     <id>https://frc6071.com</id>
 
+    <entry>
+        <title>Home</title>
+        <author>
+            <name>The Aluminators</name>
+        </author>
+        <link href="https://frc6071.com/home/"/>
+        <id>https://frc6071.com/home/</id>
+
+        <updated>2024-05-07T22:35:45-04:00</updated>
+            <summary>
+                <![CDATA[
+                    The Aluminators home page.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    The Aluminators home page.
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>2024 Sponsors</title>
         <author>
