@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://frc6071.com/sitemap.xml
